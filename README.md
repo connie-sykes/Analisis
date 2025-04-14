@@ -1,2 +1,2 @@
 # Analisis
-es pal puro resumen lmao
+Resumen C2 2024-2
